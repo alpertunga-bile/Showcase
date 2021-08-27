@@ -5,7 +5,7 @@ Showcase of projects
 
 ## OpenGL
 
-### Ray Casting
+### Ray Casting and Ray Tracing
 
 ![ray_casting](https://user-images.githubusercontent.com/76731692/131123226-c7f0d612-078c-4edd-a949-69d616be8c25.jpg)
 

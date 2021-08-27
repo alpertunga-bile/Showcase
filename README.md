@@ -21,7 +21,7 @@ Showcase of projects
 
 ![raytracing_Reflection](https://user-images.githubusercontent.com/76731692/131123330-822040fb-aa58-4846-9710-1b2000155632.jpg)
 
-![raytracing_RecursionRay](https://user-images.githubusercontent.com/76731692/131123335-fe6f6bc7-60a7-49c8-b8f8-21c11e2f7790.jpg)
+![raytracing_RecursionRay](https://user-images.githubusercontent.com/76731692/131124396-4a347676-8dfa-4fed-9a5d-740a40b1c8fd.jpg)
 
 ### VR
 

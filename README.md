@@ -96,6 +96,36 @@ https://user-images.githubusercontent.com/76731692/126897596-b8571020-fa80-4422-
 
 ![hello_model](https://user-images.githubusercontent.com/76731692/126897626-54ef1208-c087-4402-b522-2c6f0500c1a6.jpg)
 
+## RayTracing-PeterShirley
+
+### Ray Tracing In One Weekend Final
+
+![raytracinginoneweekend](https://user-images.githubusercontent.com/76731692/131985372-ecfce2bb-b6f9-4ecb-85db-d8eb6e9a65d1.jpg)
+
+### Motion Blur
+
+![motion_blur](https://user-images.githubusercontent.com/76731692/131985486-8767e9d8-8d18-4276-833e-883dac990b28.jpg)
+
+### Earth Texture
+
+![earth_texture](https://user-images.githubusercontent.com/76731692/131986027-9aef51d4-4a3a-43fc-9447-87c5525e27ca.jpg)
+
+### Diffuse Light
+
+![diffuseLight](https://user-images.githubusercontent.com/76731692/131986048-046ea9bf-4449-436e-beda-5e4420a919f9.jpg)
+
+### Standart Cornell Box
+
+![standartCornellBox](https://user-images.githubusercontent.com/76731692/131986096-8de71b14-a1c3-48b0-b85c-a6f06a9617df.jpg)
+
+### Ray Tracing In One Week Final
+
+![raytracinginoneweekFinal](https://user-images.githubusercontent.com/76731692/131986178-491a61cb-809a-4a15-ad3a-556666904411.jpg)
+
+### 10 Rays Standart Cornell Box with Monte Carlo
+
+![MC_pdf_10Rays](https://user-images.githubusercontent.com/76731692/131986246-bb323277-8817-4bcf-aa45-f41d9a8714fc.jpg)
+
 ## Unity - Ray Tracing
 
 ![reflection](https://user-images.githubusercontent.com/76731692/126897641-c8acef57-1668-4c3d-bcf1-417783df4864.jpg)

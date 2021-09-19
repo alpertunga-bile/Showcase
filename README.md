@@ -136,4 +136,6 @@ https://user-images.githubusercontent.com/76731692/126897596-b8571020-fa80-4422-
 
 ![lambert_phong_final](https://user-images.githubusercontent.com/76731692/126897643-9222aa89-eb3f-42e5-a637-8cd141363a54.jpg)
 
-
+## References
+Gordon V.S., & Clevenger J.(2020). Computer Graphics Programming in OpenGL with C++ (2nd ed.). Mercury Learning and Information <br />
+Vries J.(2020). Learn OpenGL: Learn modern OpenGL graphics programming in a step-by-step fashion(1st ed.). Kendall & Welling

@@ -87,10 +87,6 @@ https://user-images.githubusercontent.com/76731692/131123603-46637d3b-dc16-4989-
 
 ![wood](https://user-images.githubusercontent.com/76731692/131123912-c3167350-00bc-48a3-9a4d-9be517f56b8a.jpg)
 
-### Hair Fur Generation With Geometry Shader
-
-![hair_fur_with_geometry_shader](https://user-images.githubusercontent.com/76731692/131123659-d90ec23f-2f4f-4b5a-a028-af152b3c45be.jpg)
-
 ### Small solar system
 https://user-images.githubusercontent.com/76731692/126897596-b8571020-fa80-4422-b252-b7249d0a888d.mp4
 

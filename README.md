@@ -7,21 +7,11 @@ Showcase of projects
 
 ### Ray Casting and Ray Tracing
 
-![ray_casting](https://user-images.githubusercontent.com/76731692/131123226-c7f0d612-078c-4edd-a949-69d616be8c25.jpg)
-
-![ray_casting_ADS](https://user-images.githubusercontent.com/76731692/131123257-b7c9c621-8b78-42bb-8582-795b4249d7a0.jpg)
-
-![ray_casting_ADS_Shadow](https://user-images.githubusercontent.com/76731692/131123272-52807673-6772-41fb-97ff-3e36f89ef47f.jpg)
-
-![raycasting_Rotate](https://user-images.githubusercontent.com/76731692/131123283-fa9cad3d-9d22-4ed3-b0ee-76ea4a98d638.jpg)
-
 ![raycasting_Texture](https://user-images.githubusercontent.com/76731692/131123299-7605ca17-3d82-49d5-8fba-f048a20e5926.jpg)
 
 ![raycasting_Texture_Plane](https://user-images.githubusercontent.com/76731692/131123304-dcb8be36-1eed-4946-8ae6-facb8bf794f6.jpg)
 
 ![raytracing_Reflection](https://user-images.githubusercontent.com/76731692/131123330-822040fb-aa58-4846-9710-1b2000155632.jpg)
-
-![raytracing_RecursionRay](https://user-images.githubusercontent.com/76731692/131124396-4a347676-8dfa-4fed-9a5d-740a40b1c8fd.jpg)
 
 ### VR
 
@@ -76,16 +66,6 @@ https://user-images.githubusercontent.com/76731692/131123549-297861e1-f1a9-4f75-
 ### Flipbook
 
 https://user-images.githubusercontent.com/76731692/131123603-46637d3b-dc16-4989-a882-f6c137b37a78.mp4
-
-### Noise 
-
-![marble](https://user-images.githubusercontent.com/76731692/131123839-5aae4b0d-06d0-46ec-a069-7c23e9a31798.jpg)
-
-![noise](https://user-images.githubusercontent.com/76731692/131123859-5942daf2-3bf4-47b1-a4ed-d1f42e654460.jpg)
-
-![turbulence](https://user-images.githubusercontent.com/76731692/131123880-fb7f5516-4583-4400-a0cf-5c010000f26f.jpg)
-
-![wood](https://user-images.githubusercontent.com/76731692/131123912-c3167350-00bc-48a3-9a4d-9be517f56b8a.jpg)
 
 ### Small solar system
 https://user-images.githubusercontent.com/76731692/126897596-b8571020-fa80-4422-b252-b7249d0a888d.mp4

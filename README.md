@@ -128,6 +128,7 @@ https://user-images.githubusercontent.com/76731692/126897596-b8571020-fa80-4422-
 Gordon V.S., & Clevenger J.(2020). Computer Graphics Programming in OpenGL with C++ (2nd ed.). Mercury Learning and Information <br />
 Vries J.(2020). Learn OpenGL: Learn modern OpenGL graphics programming in a step-by-step fashion(1st ed.). Kendall & Welling <br />
 Wolff D.(2018). OpenGL 4 Shading Language Cookbook: Build high-quality, real-time 3D graphics with OpenGL 4.6, GLSL 4.6 and C++17(3rd ed.). Packt Publishing. <br />
+Kosarevsky S., & Latypov V.(2021). 3D Graphics Rendering Cookbook: A comprehensive guide to exploring rendering algorithms in modern OpenGL and Vulkan(1st ed.). Packt Publishing. <br /> 
 GPU Ray Tracing in Unity. http://three-eyed-games.com/2018/05/03/gpu-ray-tracing-in-unity-part-1/ <br />
 Ben Cloward's Youtube Tutorials. https://www.youtube.com/user/bcloward <br />
 CgShow's Youtube Tutorials. https://www.youtube.com/user/asif786ali1

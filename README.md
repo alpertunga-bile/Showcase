@@ -1,8 +1,6 @@
 # Showcase
 Showcase of projects
 
-# Examples from projects
-
 ## OpenGL
 
 ### Ray Casting and Ray Tracing

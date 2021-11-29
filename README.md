@@ -17,6 +17,10 @@ Showcase of projects
 
 ![blackHole](https://user-images.githubusercontent.com/76731692/143777566-945ef8f8-b775-4498-a9f9-5326621bef02.png)
 
+### Programmable Vertex Pulling (PVP)
+
+![dragon_pvp](https://user-images.githubusercontent.com/76731692/143930665-e9807170-4565-45bd-b1c3-4cd657fcd185.png)
+
 ### VR
 
 ![anaglyph_rendering](https://user-images.githubusercontent.com/76731692/131123380-d8a01960-b73f-45e7-9614-6283887b7573.jpg)

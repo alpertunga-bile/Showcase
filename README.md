@@ -23,8 +23,6 @@ Showcase of projects
 
 ![anaglyph_rendering](https://user-images.githubusercontent.com/76731692/131123380-d8a01960-b73f-45e7-9614-6283887b7573.jpg)
 
-![side-by-side_rendering](https://user-images.githubusercontent.com/76731692/131123402-44e88c4e-e1f3-4958-89c3-07ff1a5b6a52.jpg)
-
 ### PBR
 
 ![pbr_hdr_cubemap](https://user-images.githubusercontent.com/76731692/126897608-a9c7a7ec-664c-47c2-b821-76a559ffdc4d.jpg)
@@ -64,10 +62,6 @@ https://user-images.githubusercontent.com/76731692/133923190-b228d0de-1ffc-4f2b-
 ### Distortion Shader
 
 https://user-images.githubusercontent.com/76731692/131123549-297861e1-f1a9-4f75-9d5e-33b0330b337f.mp4
-
-### Environment Blending
-
-![environmentBlending](https://user-images.githubusercontent.com/76731692/131123588-daf830bf-0514-486c-902e-58aee3535d8d.jpg)
 
 ### Flipbook
 

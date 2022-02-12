@@ -110,6 +110,16 @@ https://user-images.githubusercontent.com/76731692/126897596-b8571020-fa80-4422-
 
 ![raytracingrestofyourlifeFinal](https://user-images.githubusercontent.com/76731692/133923289-b2243c63-123c-4a3a-8a67-f6aa46a8856b.jpg)
 
+## Maya
+
+![bouncingBall](https://user-images.githubusercontent.com/76731692/153717834-9780b3ba-28e2-490e-856c-4f8e31208b1f.gif)
+
+![bouncingBalls](https://user-images.githubusercontent.com/76731692/153717898-0bc32aa5-1ee0-4bb9-8324-f406d7523198.gif)
+
+![roboticArm_1](https://user-images.githubusercontent.com/76731692/153717879-91b5b2b9-b462-4b64-b387-f8f0588f7456.gif)
+
+![myRobotProject](https://user-images.githubusercontent.com/76731692/153718094-f95d8f29-bf11-4d41-a524-9dbf45c3937d.gif)
+
 ## Unreal Engine Third Person Shooter Game
 
 Gameplay - https://youtu.be/hJrapZHp0Lw

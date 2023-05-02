@@ -1,13 +1,16 @@
 # Showcase
 Showcase of projects
 
-[OpenGL](https://github.com/alpertunga-bile/Showcase#opengl) <br />
-[Vulkan](https://github.com/alpertunga-bile/Showcase#vulkan) <br />
-[CPU Ray Tracing](https://github.com/alpertunga-bile/Showcase#raytracing-petershirley) <br />
-[Maya](https://github.com/alpertunga-bile/Showcase#maya) <br />
-[Unreal Engine](https://github.com/alpertunga-bile/Showcase#unreal-engine-third-person-shooter-game) <br />
-[Unity - Lighting](https://github.com/alpertunga-bile/Showcase#unity---lighting) <br />
-[Unity - Ray Tracing(with Compute Shaders)](https://github.com/alpertunga-bile/Showcase#unity---ray-tracing-with-compute-shader) <br />
+- [OpenGL](https://github.com/alpertunga-bile/Showcase#opengl)
+- [Vulkan](https://github.com/alpertunga-bile/Showcase#vulkan)
+- [CPU Ray Tracing](https://github.com/alpertunga-bile/Showcase#raytracing-petershirley)
+- [Maya](https://github.com/alpertunga-bile/Showcase#maya)
+- [Unreal Engine](https://github.com/alpertunga-bile/Showcase#unreal-engine-third-person-shooter-game)
+- [Unity - Lighting](https://github.com/alpertunga-bile/Showcase#unity---lighting)
+- [Unity - Ray Tracing(with Compute Shaders)](https://github.com/alpertunga-bile/Showcase#unity---ray-tracing-with-compute-shader)
+- [Markdown Parser and Parser Tools]
+- [AI Upscale]
+- [AAML(Anti Aliasing with Machine Learning)]
 
 ## OpenGL
 
@@ -159,6 +162,39 @@ https://user-images.githubusercontent.com/76731692/144286509-7999a63c-8e52-4930-
 ![reflection](https://user-images.githubusercontent.com/76731692/126897641-c8acef57-1668-4c3d-bcf1-417783df4864.jpg)
 
 ![lambert_phong_final](https://user-images.githubusercontent.com/76731692/126897643-9222aa89-eb3f-42e5-a637-8cd141363a54.jpg)
+
+<br /> [Back To Top](https://github.com/alpertunga-bile/Showcase#showcase)
+
+## Markdown Parser and Parser Tools
+- [Repository](https://github.com/alpertunga-bile/prompt-markdown-parser)
+- Model Name : gpt2
+- Min Length : 10
+- Max Length : 50
+- Features are off
+- Recursive Level : 1
+- Seed : goddess
+- Self Recursive : Off
+- Generated Prompt : goddess, (intricate detailed skin texture:1.2), (electric spark, broken machine:1.1), (machine body:1.2), looking at the viewer, (smart sharpen:1.2), medium breasts, (Ghost in the Shell), depth of field, gradient background, backlit, rim lighting, dramatic lighting, ambient occlusion, volumetric lighting, professional studio lighting, closed mouth, insanely detailed,, ((masterpiece)), absurdres, HDR
+
+![00001-1760621993](https://user-images.githubusercontent.com/76731692/235329508-e33b0d29-c72f-4b12-8e1b-11b35e45dedc.png)
+
+<br /> [Back To Top](https://github.com/alpertunga-bile/Showcase#showcase)
+
+## AI Upscale
+- [Repository](https://github.com/alpertunga-bile/AIUpscaleGUI)
+
+512x512                    |  2048x2048
+:-------------------------:|:-------------------------:
+![00024-3324991962](https://user-images.githubusercontent.com/76731692/233845862-bc77ede8-421b-4076-a31d-29b5ba4f109d.png) | ![00024-3324991962_out](https://user-images.githubusercontent.com/76731692/233845891-49a4df16-82b1-409e-bcea-2fdeac65044e.png)
+
+<br /> [Back To Top](https://github.com/alpertunga-bile/Showcase#showcase)
+
+## AAML(Anti Aliasing with Machine Learning)
+- [Repository](https://github.com/alpertunga-bile/AAML)
+
+Original                   | Row By Row by 3x3 filter  |  Full Image by 3x3 filter
+:-------------------------:|:-------------------------:|:-------------------------:
+![test](https://user-images.githubusercontent.com/76731692/210861435-ad89748d-e9e8-4989-bbd5-3ca8c0e45ca6.jpg) | ![row](https://user-images.githubusercontent.com/76731692/226137407-87d57af2-be17-4c87-a27e-a9a083900c99.png) | ![full](https://user-images.githubusercontent.com/76731692/226137447-5d70e594-8804-4762-ae1c-631996f91f03.png)
 
 <br /> [Back To Top](https://github.com/alpertunga-bile/Showcase#showcase)
 

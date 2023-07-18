@@ -8,7 +8,7 @@ Showcase of projects
   - [AAML (Anti Aliasing with Machine Learning)](https://github.com/alpertunga-bile/Showcase#aamlanti-aliasing-with-machine-learning)
 - Animation
   - [Maya](https://github.com/alpertunga-bile/Showcase#maya)
-- Game Engines(Unity, Unreal Engine)
+- Game Engines (Unity, Unreal Engine)
   - [Unreal Engine](https://github.com/alpertunga-bile/Showcase#unreal-engine-third-person-shooter-game)
   - [Unity - Lighting](https://github.com/alpertunga-bile/Showcase#unity---lighting)
   - [Unity - Ray Tracing(with Compute Shaders)](https://github.com/alpertunga-bile/Showcase#unity---ray-tracing-with-compute-shader)

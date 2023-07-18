@@ -2,10 +2,10 @@
 Showcase of projects
 
 - AI and Tools
-  - Prompt Generator Node For ComfyUI
+  - [Prompt Generator Node For ComfyUI](https://github.com/alpertunga-bile/Showcase#prompt-generator-node-for-comfyui)
   - [Markdown Parser and Parser Tools](https://github.com/alpertunga-bile/Showcase#markdown-parser-and-parser-tools)
   - [AI Upscale](https://github.com/alpertunga-bile/Showcase#ai-upscale)
-  - [AAML(Anti Aliasing with Machine Learning)](https://github.com/alpertunga-bile/Showcase#aamlanti-aliasing-with-machine-learning)
+  - [AAML (Anti Aliasing with Machine Learning)](https://github.com/alpertunga-bile/Showcase#aamlanti-aliasing-with-machine-learning)
 - Animation
   - [Maya](https://github.com/alpertunga-bile/Showcase#maya)
 - Game Engines(Unity, Unreal Engine)

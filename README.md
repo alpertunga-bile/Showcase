@@ -201,7 +201,7 @@ https://user-images.githubusercontent.com/76731692/144286509-7999a63c-8e52-4930-
 
 <br /> [Back To Top](https://github.com/alpertunga-bile/Showcase#showcase)
 
-## AAML(Anti Aliasing with Machine Learning)
+## AAML (Anti Aliasing with Machine Learning)
 - [Repository](https://github.com/alpertunga-bile/AAML)
 
 Original                   | Row By Row by 3x3 filter  |  Full Image by 3x3 filter

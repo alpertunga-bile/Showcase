@@ -2,6 +2,7 @@
 Showcase of projects
 
 - AI and Tools
+  - Prompt Generator Node For ComfyUI
   - [Markdown Parser and Parser Tools](https://github.com/alpertunga-bile/Showcase#markdown-parser-and-parser-tools)
   - [AI Upscale](https://github.com/alpertunga-bile/Showcase#ai-upscale)
   - [AAML(Anti Aliasing with Machine Learning)](https://github.com/alpertunga-bile/Showcase#aamlanti-aliasing-with-machine-learning)
@@ -166,6 +167,13 @@ https://user-images.githubusercontent.com/76731692/144286509-7999a63c-8e52-4930-
 ![reflection](https://user-images.githubusercontent.com/76731692/126897641-c8acef57-1668-4c3d-bcf1-417783df4864.jpg)
 
 ![lambert_phong_final](https://user-images.githubusercontent.com/76731692/126897643-9222aa89-eb3f-42e5-a637-8cd141363a54.jpg)
+
+<br /> [Back To Top](https://github.com/alpertunga-bile/Showcase#showcase)
+
+## Prompt Generator Node For ComfyUI
+- [Repository](https://github.com/alpertunga-bile/prompt-generator-comfyui) <br />
+
+![image](https://github.com/alpertunga-bile/Showcase/assets/76731692/13147493-4ca8-4649-b3f7-d9673d6d6fd9)
 
 <br /> [Back To Top](https://github.com/alpertunga-bile/Showcase#showcase)
 

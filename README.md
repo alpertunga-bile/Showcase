@@ -15,8 +15,7 @@ Showcase of projects
     - [Maya](#maya)
   - [CUDA](#cuda)
     - [Julia](#julia)
-    - [Ripple](#ripple)
-    - [Heatmap](#heatmap)
+    - [Path Tracer](#cuda-path-tracer)
   - [Game Engines ( Unity and Unreal Engine)](#game-engines--unity-and-unreal-engine)
     - [Unreal Engine](#unreal-engine)
       - [Third Person Shooter Game](#third-person-shooter-game)
@@ -62,6 +61,8 @@ Showcase of projects
 - [Repository](https://github.com/alpertunga-bile/prompt-generator-comfyui)
 
 ![image](https://github.com/alpertunga-bile/Showcase/assets/76731692/13147493-4ca8-4649-b3f7-d9673d6d6fd9)
+
+![270756682-544907ff-2a75-415a-912c-90dfb6959efb](https://github.com/alpertunga-bile/Showcase/assets/76731692/35aa3cb1-796a-4535-b402-bbb807c4c05b)
 
 [Back To Top](https://github.com/alpertunga-bile/Showcase#showcase)
 
@@ -120,10 +121,6 @@ Showcase of projects
 ### Julia
 
 ![julia](CUDA_outputs/julia.png)
-
-### Ripple
-
-### Heatmap
 
 [Back To Top](https://github.com/alpertunga-bile/Showcase#showcase)
 

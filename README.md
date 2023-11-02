@@ -146,8 +146,6 @@ Showcase of projects
 
 ![scifiCorridor](https://user-images.githubusercontent.com/76731692/144286539-2941216b-e4f1-43a2-85e2-82700442556d.png)
 
-[Back To Top](https://github.com/alpertunga-bile/Showcase#showcase)
-
 #### Ray Tracing (with Compute Shader)
 
 ![reflection](https://user-images.githubusercontent.com/76731692/126897641-c8acef57-1668-4c3d-bcf1-417783df4864.jpg)
@@ -236,6 +234,10 @@ Showcase of projects
 
 ![hello_model](https://user-images.githubusercontent.com/76731692/126897626-54ef1208-c087-4402-b522-2c6f0500c1a6.jpg)
 
+![minecraft_output](https://github.com/alpertunga-bile/Showcase/assets/76731692/17dfa00f-a853-4693-8e27-e87c75f9ae63)
+
+![imgui](https://github.com/alpertunga-bile/Showcase/assets/76731692/171b3a73-d844-41f3-a910-c418e269cf3c)
+
 [Back To Top](https://github.com/alpertunga-bile/Showcase#showcase)
 
 ## Ray Tracing
@@ -273,6 +275,8 @@ Showcase of projects
 #### Ray Tracing Rest Of Your Life Final
 
 ![raytracingrestofyourlifeFinal](https://user-images.githubusercontent.com/76731692/133923289-b2243c63-123c-4a3a-8a67-f6aa46a8856b.jpg)
+
+[Back To Top](https://github.com/alpertunga-bile/Showcase#showcase)
 
 ### CUDA Path Tracer
 

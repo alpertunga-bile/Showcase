@@ -60,9 +60,9 @@ Showcase of projects
 
 - [Repository](https://github.com/alpertunga-bile/prompt-generator-comfyui)
 
-![image](https://github.com/alpertunga-bile/Showcase/assets/76731692/13147493-4ca8-4649-b3f7-d9673d6d6fd9)
+![basic_workflow](https://github.com/alpertunga-bile/Showcase/assets/76731692/bb6f23a0-11c0-40bf-9b48-93b22374c171)
 
-![270756682-544907ff-2a75-415a-912c-90dfb6959efb](https://github.com/alpertunga-bile/Showcase/assets/76731692/35aa3cb1-796a-4535-b402-bbb807c4c05b)
+![hires_workflow](https://github.com/alpertunga-bile/Showcase/assets/76731692/907e50f8-62bc-4949-825f-c9a984ce6c9e)
 
 [Back To Top](https://github.com/alpertunga-bile/Showcase#showcase)
 

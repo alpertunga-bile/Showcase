@@ -1,6 +1,6 @@
 # Showcase
 
-Showcase of projects
+Showcase and collection of projects
 
 ## Contents
 
@@ -25,6 +25,7 @@ Showcase of projects
     - [Unreal Engine](#unreal-engine)
       - [Third Person Shooter Game](#third-person-shooter-game)
     - [Unity](#unity)
+      - [Bullet Hell](https://github.com/TeamWololo/BulletHell_Repo)
       - [Lighting](#lighting)
       - [Ray Tracing (with Compute Shader)](#ray-tracing-with-compute-shader)
   - [Graphic APIs](#graphic-apis)

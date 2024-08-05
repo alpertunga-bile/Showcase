@@ -7,6 +7,7 @@ Showcase and collection of projects
 - [Showcase](#showcase)
   - [Contents](#contents)
   - [AI and Tools](#ai-and-tools)
+    - [Image Caption Node for ComfyUI](#image-caption-node-for-comfyui)
     - [Prompt Generator Node For ComfyUI](#prompt-generator-node-for-comfyui)
     - [Markdown Parser and Parser Tools](#markdown-parser-and-parser-tools)
     - [AI Upscale](#ai-upscale)
@@ -16,6 +17,9 @@ Showcase and collection of projects
     - [Auto CMake](https://github.com/alpertunga-bile/auto-cmake)
     - [Video Upscale](https://github.com/alpertunga-bile/video-upscale)
     - [PixelDancer](https://github.com/alpertunga-bile/PixelDancer)
+    - [Third Wheel](https://github.com/alpertunga-bile/third_wheel)
+    - [Auto Civitai Cpp](https://github.com/alpertunga-bile/auto-civitai-cpp)
+    - [Resource Lists (Repository)](https://github.com/alpertunga-bile/link_list)
   - [Animation](#animation)
     - [Maya](#maya)
   - [CUDA](#cuda)
@@ -48,6 +52,7 @@ Showcase and collection of projects
     - [Vulkan](#vulkan)
       - [Import Model](#import-model)
   - [Ray Tracing](#ray-tracing)
+    - [RayTracing-Peter Shirley with ISPC Language](https://github.com/alpertunga-bile/ps_ray_trace)
     - [RayTracing-PeterShirley](#raytracing-petershirley)
       - [Ray Tracing In One Weekend Final](#ray-tracing-in-one-weekend-final)
       - [Motion Blur](#motion-blur)
@@ -61,6 +66,16 @@ Showcase and collection of projects
   - [References](#references)
 
 ## AI and Tools
+
+### Image Caption Node for ComfyUI
+
+- [Repository](https://github.com/alpertunga-bile/image-caption-comfyui)
+
+![image_caption_node_basic_workflow](https://github.com/alpertunga-bile/image-caption-comfyui/blob/master/images/basic_workflow_with_promp_generator.png?raw=true)
+
+![image_caption_node_basic_workflow_2](https://github.com/alpertunga-bile/image-caption-comfyui/blob/master/images/basic_workflow_with_prompt_generator_2.png?raw=true)
+
+[Back To Top](https://github.com/alpertunga-bile/Showcase#showcase)
 
 ### Prompt Generator Node For ComfyUI
 

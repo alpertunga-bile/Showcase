@@ -20,6 +20,7 @@ Showcase and collection of projects
     - [Third Wheel](https://github.com/alpertunga-bile/third_wheel)
     - [Auto Civitai Cpp](https://github.com/alpertunga-bile/auto-civitai-cpp)
     - [Resource Lists (Repository)](https://github.com/alpertunga-bile/link_list)
+    - [simdjson_python](https://github.com/alpertunga-bile/simdjson_python)
   - [Animation](#animation)
     - [Maya](#maya)
   - [CUDA](#cuda)

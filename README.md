@@ -6,27 +6,16 @@ Showcase and collection of projects
 
 - [Showcase](#showcase)
   - [Contents](#contents)
-  - [AI and Tools](#ai-and-tools)
+  - [AI](#ai)
     - [Image Caption Node for ComfyUI](#image-caption-node-for-comfyui)
     - [Prompt Generator Node For ComfyUI](#prompt-generator-node-for-comfyui)
-    - [Markdown Parser and Parser Tools](#markdown-parser-and-parser-tools)
-    - [AI Upscale](#ai-upscale)
     - [AAML (Anti Aliasing with Machine Learning)](#aaml-anti-aliasing-with-machine-learning)
-    - [Wrap Gradio](https://github.com/alpertunga-bile/wrap_gradio)
-    - [Differential Diffusion Gradio Example](https://github.com/alpertunga-bile/differential-diffusion_gradio_example/blob/gradio_example/examples/gradio/gradio_example.md)
-    - [Auto CMake](https://github.com/alpertunga-bile/auto-cmake)
-    - [Video Upscale](https://github.com/alpertunga-bile/video-upscale)
-    - [PixelDancer](https://github.com/alpertunga-bile/PixelDancer)
-    - [Third Wheel](https://github.com/alpertunga-bile/third_wheel)
-    - [Auto Civitai Cpp](https://github.com/alpertunga-bile/auto-civitai-cpp)
-    - [Resource Lists (Repository)](https://github.com/alpertunga-bile/link_list)
-    - [simdjson_python](https://github.com/alpertunga-bile/simdjson_python)
   - [Animation](#animation)
     - [Maya](#maya)
   - [CUDA](#cuda)
     - [Julia](#julia)
     - [Path Tracer](#cuda-path-tracer)
-  - [Game Engines ( Unity and Unreal Engine)](#game-engines--unity-and-unreal-engine)
+  - [Game Engines (Unity and Unreal Engine)](#game-engines--unity-and-unreal-engine)
     - [Unreal Engine](#unreal-engine)
       - [Third Person Shooter Game](#third-person-shooter-game)
     - [Unity](#unity)
@@ -64,9 +53,28 @@ Showcase and collection of projects
       - [10 Rays Standart Cornell Box with Monte Carlo](#10-rays-standart-cornell-box-with-monte-carlo)
       - [Ray Tracing Rest Of Your Life Final](#ray-tracing-rest-of-your-life-final)
     - [CUDA Path Tracer](#cuda-path-tracer)
+  - [Tools](#tools)
+    - [Markdown Parser and Parser Tools](#markdown-parser-and-parser-tools)
+    - [AI Upscale](#ai-upscale)
+    - [Wrap Gradio](https://github.com/alpertunga-bile/wrap_gradio)
+    - [Differential Diffusion Gradio Example](https://github.com/alpertunga-bile/differential-diffusion_gradio_example/blob/gradio_example/examples/gradio/gradio_example.md)
+    - [Auto CMake](https://github.com/alpertunga-bile/auto-cmake)
+    - [Video Upscale](https://github.com/alpertunga-bile/video-upscale)
+    - [PixelDancer](https://github.com/alpertunga-bile/PixelDancer)
+    - [Third Wheel](https://github.com/alpertunga-bile/third_wheel)
+    - [Auto Civitai Cpp](https://github.com/alpertunga-bile/auto-civitai-cpp)
+    - [Resource Lists (Repository)](https://github.com/alpertunga-bile/link_list)
+    - [simdjson_python](https://github.com/alpertunga-bile/simdjson_python)
+    - [Auto Civitai Rust](https://github.com/alpertunga-bile/auto_civitai_rs)
+    - [LZString](https://github.com/alpertunga-bile/lz-string)
+    - [Memory Pool](https://github.com/alpertunga-bile/PXD-memory-pool)
+  - Web
+    - [Cacher WASM](https://github.com/alpertunga-bile/cacher_wasm)
+    - [Civitai Viewer](https://github.com/alpertunga-bile/civitai_viewer)
+    - [Web Testbed](https://github.com/alpertunga-bile/web_testbed)
   - [References](#references)
 
-## AI and Tools
+## AI
 
 ### Image Caption Node for ComfyUI
 
@@ -82,37 +90,9 @@ Showcase and collection of projects
 
 - [Repository](https://github.com/alpertunga-bile/prompt-generator-comfyui)
 
-![basic_workflow](https://github.com/alpertunga-bile/Showcase/assets/76731692/bb6f23a0-11c0-40bf-9b48-93b22374c171)
+![basic_workflow](https://github.com/alpertunga-bile/prompt-generator-comfyui/blob/master/images/basic_workflow.png)
 
-![hires_workflow](https://github.com/alpertunga-bile/Showcase/assets/76731692/907e50f8-62bc-4949-825f-c9a984ce6c9e)
-
-[Back To Top](https://github.com/alpertunga-bile/Showcase#showcase)
-
-### Markdown Parser and Parser Tools
-
-- [Repository](https://github.com/alpertunga-bile/prompt-markdown-parser)
-- Model Name : gpt2
-- Min Length : 10
-- Max Length : 50
-- Features are off
-- Recursive Level : 1
-- Seed : goddess
-- Self Recursive : Off
-- Generated Prompt : goddess, (intricate detailed skin texture:1.2), (electric spark, broken machine:1.1), (machine body:1.2), looking at the viewer, (smart sharpen:1.2), medium breasts, (Ghost in the Shell), depth of field, gradient background, backlit, rim lighting, dramatic lighting, ambient occlusion, volumetric lighting, professional studio lighting, closed mouth, insanely detailed,, ((masterpiece)), absurdres, HDR
-
-![00001-1760621993](https://user-images.githubusercontent.com/76731692/235329508-e33b0d29-c72f-4b12-8e1b-11b35e45dedc.png)
-
-[Back To Top](https://github.com/alpertunga-bile/Showcase#showcase)
-
-### AI Upscale
-
-- [Repository](https://github.com/alpertunga-bile/AIUpscaleGUI)
-
-|                                                          512x512                                                           |                                                           2048x2048                                                            |
-| :------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
-| ![00024-3324991962](https://user-images.githubusercontent.com/76731692/233845862-bc77ede8-421b-4076-a31d-29b5ba4f109d.png) | ![00024-3324991962_out](https://user-images.githubusercontent.com/76731692/233845891-49a4df16-82b1-409e-bcea-2fdeac65044e.png) |
-
-[Back To Top](https://github.com/alpertunga-bile/Showcase#showcase)
+![hires_workflow](https://github.com/alpertunga-bile/prompt-generator-comfyui/blob/master/images/hires_workflow.png)
 
 ### AAML (Anti Aliasing with Machine Learning)
 
@@ -307,6 +287,34 @@ Showcase and collection of projects
 ![bunny_refraction](CUDA_outputs/bunny_refraction.png)
 
 ![bunny_specular](CUDA_outputs/bunny_specular.png)
+
+[Back To Top](https://github.com/alpertunga-bile/Showcase#showcase)
+
+## Tools
+
+### Markdown Parser and Parser Tools
+
+- [Repository](https://github.com/alpertunga-bile/prompt-markdown-parser)
+- Model Name : gpt2
+- Min Length : 10
+- Max Length : 50
+- Features are off
+- Recursive Level : 1
+- Seed : goddess
+- Self Recursive : Off
+- Generated Prompt : goddess, (intricate detailed skin texture:1.2), (electric spark, broken machine:1.1), (machine body:1.2), looking at the viewer, (smart sharpen:1.2), medium breasts, (Ghost in the Shell), depth of field, gradient background, backlit, rim lighting, dramatic lighting, ambient occlusion, volumetric lighting, professional studio lighting, closed mouth, insanely detailed,, ((masterpiece)), absurdres, HDR
+
+![00001-1760621993](https://user-images.githubusercontent.com/76731692/235329508-e33b0d29-c72f-4b12-8e1b-11b35e45dedc.png)
+
+[Back To Top](https://github.com/alpertunga-bile/Showcase#showcase)
+
+### AI Upscale
+
+- [Repository](https://github.com/alpertunga-bile/AIUpscaleGUI)
+
+|                                                          512x512                                                           |                                                           2048x2048                                                            |
+| :------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
+| ![00024-3324991962](https://user-images.githubusercontent.com/76731692/233845862-bc77ede8-421b-4076-a31d-29b5ba4f109d.png) | ![00024-3324991962_out](https://user-images.githubusercontent.com/76731692/233845891-49a4df16-82b1-409e-bcea-2fdeac65044e.png) |
 
 [Back To Top](https://github.com/alpertunga-bile/Showcase#showcase)
 
